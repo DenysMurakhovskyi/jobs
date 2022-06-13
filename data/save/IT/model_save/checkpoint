@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/dryukalex/jobs/results/out/IT/model//model_save/SSCN"
+all_model_checkpoint_paths: "/home/dryukalex/jobs/results/out/IT/model//model_save/SSCN"
